@@ -1,0 +1,10 @@
+ Volume in drive C is Windows
+ Volume Serial Number is 74D6-ECAA
+
+ Directory of C:\Users\adminjenkins\Desktop\myproject
+
+03/20/2019  11:44 AM    <DIR>          .
+03/20/2019  11:44 AM    <DIR>          ..
+03/20/2019  11:44 AM                 0 test1.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  122,029,584,384 bytes free
